@@ -107,7 +107,7 @@ Klik tombol **Run** (▶) atau tekan `F6`.
 
 ## 📸 Tampilan Aplikasi
 
-> *(Tambahkan screenshot antarmuka aplikasi di sini)*
+> *![Hasil Program CRUD](hasil.jpg)*
 
 ---
 
